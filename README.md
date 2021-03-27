@@ -1,15 +1,16 @@
-# Chat Demo
+# Project Name : Talk to Me ( Chat Application) 
 
 ## Description
-* A chat app made by Flutter and Firebase.
-* Support login with google account, chat with any user, send text, image and sticker, update avatar and profile.
-* Watch the demo video for more clarity: https://youtu.be/MOHE68LI5Eg
-* Check my general guidance to know more and how to do it: https://medium.com/@duytq94/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e
+* สร้างแอปพลิเคชันด้วย Flutter และ Firebase.
+* เข้าสู่ระบบด้วยบัญชี google, สามารถแชทกับผู้ใช้คนอื่นได้หลายๆคน, ส่งข้อความได้,ส่งรูปภาพและส่งsticker ได้, สามารถอัพเดต avatar และ profile ของเราได้.
+* ดูวิดีโอตัวอย่างได้ที่: 
 
 ## Extension
-* Push notification messages.
-* Demo: https://youtu.be/TL--RKbNPt8
-* Article: https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675
+* หน้า login จะให้ลงชื่อเข้าใช้ด้วยบัญชี google จากนั้นระบบจะบันทึกข้อมูลของคุณลงใน Firebase
+* หน้า Chat เป็นหน้าสำหรับพูดคุยกับผู้ใช้คนอื่นๆ สามารถส่งสติกเกอร์ ส่งข้อความ ส่งรูปภาพ ได้
+* หน้า Setting สามารถปรับรูปโปรไฟล์ ชื่อของผู้ใช้ หรือข้อมูลต่างๆได้ เพื่ออัพเดตข้อมูลของผู้ใช้ ลงใน Firebase
+* เมื่อกดลูกศรย้อนกลับก็จะถามเช็คว่าจะออกจากโปรแกรมหรือไม่?
+* สามารถกด Log Out เพื่อออกจากระบบ
 
 ## Screenshot
 <img src="https://raw.githubusercontent.com/duytq94/flutter-chat-demo/master/screenshots/FlutterChatDemo.gif" height="50%" width="50%">
