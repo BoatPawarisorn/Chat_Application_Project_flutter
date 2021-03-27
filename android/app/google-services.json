@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736730963446",
+    "project_id": "signin-9c01d",
+    "storage_bucket": "signin-9c01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736730963446:android:0fb5121df2ad5d5fb2bbd7",
+        "android_client_info": {
+          "package_name": "com.dfa.flutterchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736730963446-rhpurj7gimlritt2lepgnbkdmi49u2vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0lnKraR7MB4XmiSmIrOshZ27-IgH-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736730963446-rhpurj7gimlritt2lepgnbkdmi49u2vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
