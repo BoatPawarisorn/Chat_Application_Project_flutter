@@ -2,7 +2,8 @@
 
 ## Description
 * สร้างแอปพลิเคชันด้วย Flutter และ Firebase.
-* เข้าสู่ระบบด้วยบัญชี google, สามารถแชทกับผู้ใช้คนอื่นได้หลายๆคน, ส่งข้อความได้,ส่งรูปภาพและส่งsticker ได้, สามารถอัพเดต avatar และ profile ของเราได้.
+* เข้าสู่ระบบด้วยบัญชี google, สามารถแชทกับผู้ใช้คนอื่นได้หลายๆคน,
+  ส่งข้อความได้,ส่งรูปภาพและส่งsticker ได้,สามารถอัพเดต avatar และ profile ของเราได้.
 * ดูวิดีโอตัวอย่างได้ที่: 
 
 ## Extension
@@ -12,10 +13,7 @@
 * เมื่อกดลูกศรย้อนกลับก็จะถามเช็คว่าจะออกจากโปรแกรมหรือไม่?
 * สามารถกด Log Out เพื่อออกจากระบบ
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/duytq94/flutter-chat-demo/master/screenshots/FlutterChatDemo.gif" height="50%" width="50%">
-
 ## How to run
 * Clone this repo
-* Run `flutter packages get`
-* Run `flutter run` (remember open simulator or connect physical device, iOS auto run additional command `pod install`)
+* Run `flutter pub get`
+* Run `flutter run` 
