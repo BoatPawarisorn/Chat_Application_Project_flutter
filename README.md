@@ -46,6 +46,16 @@
  
 #### 5. สามารถกด Log Out เพื่อออกจากระบบ
 
+## Firebase 
+ #### 1. Firebase สำหรับเก็บข้อมูลของผู้ใช้
+ 
+![image](https://www.img.in.th/images/7dd6a65bdbb9613f0a8f8df0dd22db25.png)
+
+
+#### 2. Firebase สำหรับเก็บข้อมูลในการสนทนา
+
+![image](https://www.img.in.th/images/f2c14094d1dbd3cb0c7541dab2de7fa2.png)
+
 
 ## How to run
 * Clone this repo
