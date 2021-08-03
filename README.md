@@ -50,12 +50,12 @@
 ## Firebase 
  #### 1. Firebase สำหรับเก็บข้อมูลของผู้ใช้
  
-![image](https://www.img.in.th/images/ef97c3f7c5dec37b889cff4e3f454549.jpg)
+![image](https://www.img.in.th/images/e3b18851fa56467681c259c214b2af6c.jpg)
 
 
 #### 2. Firebase สำหรับเก็บข้อมูลในการสนทนา
 
-![image](https://www.img.in.th/images/6c3fb0df5c81ac6a7afc803c73f40944.jpg)
+![image](https://www.img.in.th/images/7ddb992add1bbb736cda21c10b51da3b.jpg)
 
 
 ## How to run
